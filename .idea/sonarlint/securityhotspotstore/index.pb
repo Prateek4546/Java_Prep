@@ -32,3 +32,7 @@ h
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+X
+(src/desigenPattern/singleTon/Driver.java,e\f\ef64194099b377fcab3dfa9752ceb6fe914aef27
+W
+'src/desigenPattern/singleTon/TVSet.java,8\1\817a5849acc18f8d1f6cc4897206721de192114a
