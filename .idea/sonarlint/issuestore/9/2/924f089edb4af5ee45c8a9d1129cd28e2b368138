@@ -1,0 +1,9 @@
+
+m
+java:S1144"*Remove this unused private "merge" method.(œÉÓÕ8ß¢šò¼2J$bdb8a7ef-f1be-4fa6-8379-7cddc9b714a5
+g
+java:S1659$"Declare "j" on a separate line.(ý²ïºÿÿÿÿÿ8ã¢šò¼2J$51840f6d-f372-4da6-b2ff-088bcaf337a7
+œ
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(×ù³«8ã¢šò¼2J$879cc408-9bb6-4e75-847b-c514d731e6d3
+~	java:S1253"<This block of commented-out lines of code should be removed.(£üÿÎ8ä¢šò¼2J$b97954c7-3b8c-4d3e-a9e5-7a97e254d270
+~	java:S125;"<This block of commented-out lines of code should be removed.(ðÿèÝ8ä¢šò¼2J$b5002e4b-6ad5-464d-a5b3-cacac540a114

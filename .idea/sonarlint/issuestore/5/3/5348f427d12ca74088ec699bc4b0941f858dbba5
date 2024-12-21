@@ -1,0 +1,16 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¥¸ªô8ßÓñ¼2
+W
+java:S1141"5Extract this nested try block into a separate method.(ç£êúÿÿÿÿ8 ßÓñ¼2
+g	java:S112<"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8 ßÓñ¼2
+L	java:S106"+Replace this use of System.out by a logger.(Ÿ†ŠĞşÿÿÿÿ8¥ßÓñ¼2
+L	java:S106"+Replace this use of System.out by a logger.(ƒ¢ôÇıÿÿÿÿ8¦ßÓñ¼2
+L	java:S106"+Replace this use of System.out by a logger.(À‹÷Ôüÿÿÿÿ8¦ßÓñ¼2
+L	java:S106("+Replace this use of System.out by a logger.(œ·½‘ÿÿÿÿÿ8©ßÓñ¼2
+L	java:S106-"+Replace this use of System.out by a logger.(¼«âËúÿÿÿÿ8©ßÓñ¼2
+L	java:S1066"+Replace this use of System.out by a logger.(Ÿ†ŠĞşÿÿÿÿ8ªßÓñ¼2
+L	java:S1068"+Replace this use of System.out by a logger.(ƒ¢ôÇıÿÿÿÿ8ªßÓñ¼2
+{
+java:S2142;"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ªßÓñ¼2
+L	java:S106?"+Replace this use of System.out by a logger.(À‹÷Ôüÿÿÿÿ8¬ßÓñ¼2
+L	java:S106B"+Replace this use of System.out by a logger.(œ·½‘ÿÿÿÿÿ8­ßÓñ¼2
