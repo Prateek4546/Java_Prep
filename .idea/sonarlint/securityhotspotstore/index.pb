@@ -36,3 +36,7 @@ X
 (src/desigenPattern/singleTon/Driver.java,e\f\ef64194099b377fcab3dfa9752ceb6fe914aef27
 W
 'src/desigenPattern/singleTon/TVSet.java,8\1\817a5849acc18f8d1f6cc4897206721de192114a
+Z
+*src/desigenPattern/factoryMethod/Main.java,6\3\63b3b65601d2881458114bfa00970bf0825ca807
+Z
+*src/desigenPattern/factoryMethod/Demo.java,6\e\6e169f69588403b1d1e72cee6256332472787fb1
