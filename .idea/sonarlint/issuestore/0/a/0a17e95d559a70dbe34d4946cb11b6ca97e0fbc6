@@ -1,0 +1,11 @@
+
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œæÔºJ$6619d802-2f97-42ea-955b-5be9c90d52ea
+r
+java:S1144"*Remove this unused private "count" method.(¿‰‰èøÿÿÿÿ8öð¤•¿2J$6f1ddf46-b2d9-4d3b-86ca-223bbc9f5b65
+}
+java:S1118":Add a private constructor to hide the implicit public one.(¹¾°¯8öð¤•¿2J$b20ed8b6-317a-4941-942d-be0e17cbb2fc
+}	java:S125"<This block of commented-out lines of code should be removed.(˜Ì²8œñ¤•¿2J$88549372-5d3e-4c8d-9154-597241e40f69
+o
+java:S1125"'Remove the unnecessary boolean literal.(ñµøùÿÿÿÿ8¨ñ¤•¿2J$5ff42809-25f5-4084-bbe3-1d5293a22628
+o
+java:S1125"'Remove the unnecessary boolean literal.(îÌËùÿÿÿÿ8­ñ¤•¿2J$905aad4b-413d-4a0d-88e8-1bd5a4c3ebeb
