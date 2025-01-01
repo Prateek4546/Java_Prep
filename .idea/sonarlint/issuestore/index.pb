@@ -34,3 +34,5 @@ h
 8src/dataStructureAndAlgorithm/Graph/DiameterOfGraph.java,6\3\631672d698f0e9c5cd5d54069695838e682d5f99
 [
 +src/dataStructureAndAlgorithm/data/sql.java,0\7\0737d4311aaf6b8b3279e277b4dbaf45564c3ae5
+p
+@src/dataStructureAndAlgorithm/Arrays/BinarySearch/SqareRoot.java,b\b\bbb4525dddb0761c6ec349f7802c810b52db3d71
