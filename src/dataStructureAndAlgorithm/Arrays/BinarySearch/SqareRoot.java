@@ -15,7 +15,8 @@ public class SqareRoot {
 
             int mid = (lo + (hi - lo)/2);
 
-            if(mid <= (int)(n / mid)){
+            if(mid <= (int)(n / mid))
+            {
                 ans = mid;
                 lo = mid + 1;
             }
