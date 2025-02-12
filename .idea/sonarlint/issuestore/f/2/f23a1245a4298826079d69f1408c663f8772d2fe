@@ -1,5 +1,3 @@
 
-ƒ
-java:S1854";Remove this useless assignment to local variable "numbers".(Öå·§ûÿÿÿÿ8 ½¥ÆÏ2J$2be02c7a-5a7c-445d-9c69-35756ff4f4e5
-t
-java:S1481",Remove this unused "numbers" local variable.(Öå·§ûÿÿÿÿ8±½¥ÆÏ2J$be412791-cca1-4769-a6ad-2eb6ab0e7c80
+G	java:S106
+"+Replace this use of System.out by a logger.(‚¨Ö§8‡À€ÈÏ2

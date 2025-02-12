@@ -72,3 +72,17 @@ N
 src/stream/FlatMapExample.java,6\2\62cfb1d3f36403a277b84fbdc0133cabf9eb62d4
 K
 src/stream/PeekExample.java,3\6\369ad5f9e38304f1e8ada22a3ce93a6fc4dfa862
+O
+src/stream/DIstinctExample.java,4\a\4a4a902341c37fc58d8441c0941f984cfe7ba1e3
+M
+src/stream/SortedExample.java,b\2\b25c12afb770d44440ca05da83453209796b080a
+K
+src/stream/SkipExample.java,e\8\e8c449c16625173516526356ac57582061e773ce
+L
+src/stream/LimitExample.java,9\3\936d1339a0fade929c60829d9f7402fd1a0af9dc
+N
+src/stream/CollectExample.java,c\3\c3df377a947cbbcf2fb94fc7ad6681bf3f8f39db
+O
+src/stream/AnyMatchExample.java,9\1\917dfba4f533b4638950b73b585860ca4fe05900
+L
+src/stream/CountExample.java,a\6\a6d1d8a7dcc2399c25f90e2c735adc2fb2df374c
