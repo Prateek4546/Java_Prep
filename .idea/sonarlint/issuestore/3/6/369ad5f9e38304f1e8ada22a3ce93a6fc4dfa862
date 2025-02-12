@@ -1,0 +1,15 @@
+
+
+java:S1854	"7Remove this useless assignment to local variable "ans".(‘«Ý²ûÿÿÿÿ8©Ï÷ÆÏ2J$91c1e100-d3cf-4d3e-8f21-1fd86dbfc27f
+½
+java:S6204"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹8ÉÐøÆÏ2J$d56ebaef-2c2a-4ae3-855d-7096734f2c1d
+d
+java:S3864"!Remove this use of "Stream.peek".(ßˆ±ö8ÉÐøÆÏ2J$76e0d109-66f7-4eb3-a984-d8762c82be5d
+>
+java:S3864
+"!Remove this use of "Stream.peek".(ßˆ±ö8¢ÚùÆÏ2
+m	java:S106
+"+Replace this use of System.out by a logger.(ßˆ±ö8ËÐøÆÏ2J$fe7d7cfa-ac2e-454c-8a9a-edfa7eef0906
+G	java:S106"+Replace this use of System.out by a logger.(ßˆ±ö8¢ÚùÆÏ2
+p
+java:S1481	"(Remove this unused "ans" local variable.(‘«Ý²ûÿÿÿÿ8¬Ï÷ÆÏ2J$9e7be3c9-cdd3-4d21-8598-ac6541ad2478
