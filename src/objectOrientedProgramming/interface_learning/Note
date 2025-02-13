@@ -3,3 +3,4 @@ What how why
     First Question is What is an Interface
 ==> interface in java are work as blueprint in java that have only abstract method that multiple  class  can implement
 
+===> why can we  not create an object of abstract class
