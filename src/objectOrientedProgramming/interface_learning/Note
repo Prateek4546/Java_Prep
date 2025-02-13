@@ -14,3 +14,7 @@ What how why
       @FunctionalInterface keyword can be used at the top of interface (it is optional).
       in functional interface we can have 1 abstract method ans can have default and static methode and object class
       methode also.
+
+=>>>> What is lambda Expression
+      Lambda Expression is a way to implement the functional interface
+

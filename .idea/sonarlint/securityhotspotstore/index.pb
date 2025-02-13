@@ -94,3 +94,9 @@ S
 #src/collections/Map/MapExample.java,f\c\fca0a4fe3594e2123e6f026bfe64d6bdf933b0d9
 H
 src/collections/Map/Note,1\d\1d2b27f4050aca47a5e170a701acec1eb6fc2b2e
+i
+9src/objectOrientedProgramming/interface_learning/cal.java,0\d\0de3308cac461d117d44d727d1dab4a0518a1580
+€
+Psrc/objectOrientedProgramming/interface_learning/FunctionalInterfaceExample.java,8\b\8b2e837dbe9332b806f4e0081a15d8b740b05980
+i
+9src/objectOrientedProgramming/interface_learning/Cal.java,6\c\6c6cfffa7f944e1ae066e438021190957e0cac60
