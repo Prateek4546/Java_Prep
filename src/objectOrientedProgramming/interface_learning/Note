@@ -4,3 +4,13 @@ What how why
 ==> interface in java are work as blueprint in java that have only abstract method that multiple  class  can implement
 
 ===> why can we  not create an object of abstract class
+
+
+
+
+
+=>>>> What is a functional interface
+      if a interface have only on abstract Method  then the interface in called functional interface.
+      @FunctionalInterface keyword can be used at the top of interface (it is optional).
+      in functional interface we can have 1 abstract method ans can have default and static methode and object class
+      methode also.
