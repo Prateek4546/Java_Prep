@@ -23,4 +23,6 @@ public class ClimbeStars {
 
         return dp[n] = climbStairsMemo(n-1 , dp) + climbStairsMemo(n-2 , dp);
     }
+    // O(N) time complexity and space Complexity is  O(N) for dp array and O(N) for recursion so total time complexity
+    // O(2N)
 }
