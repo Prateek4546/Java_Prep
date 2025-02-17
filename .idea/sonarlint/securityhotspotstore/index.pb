@@ -102,3 +102,5 @@ i
 9src/objectOrientedProgramming/interface_learning/Cal.java,6\c\6c6cfffa7f944e1ae066e438021190957e0cac60
 y
 Isrc/dataStructureAndAlgorithm/dyanmicProgramming/OneD_DP/ClimbeStars.java,5\6\56f0a83339bed97965ad74996fee3c6e9abdba67
+c
+3src/dataStructureAndAlgorithm/pattern/Pattern1.java,2\8\28abbad5cedcf46d5ca3ae41e8f73dbcad404d76
