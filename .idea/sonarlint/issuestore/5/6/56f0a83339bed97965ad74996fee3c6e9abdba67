@@ -1,5 +1,5 @@
 
 q
-java:S1121".Extract the assignment out of this expression.(‘ôÇ¶8ñÆˆ Ð2J$8ee4ba9c-476c-422c-9a1c-f1cee3bcbe14
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘›—éüÿÿÿÿ8Ô¹îŸÐ2J$367fbcca-4fe1-41e6-9fd0-b072735de4f0
-r	java:S106"+Replace this use of System.out by a logger.(Ž³ð¸ûÿÿÿÿ8å¹îŸÐ2J$79f5f3d6-a9f5-48b2-85c1-c4554739dfd5
+java:S1121".Extract the assignment out of this expression.(‘ôÇ¶8ñÆˆ Ð2J$c1cf177a-3479-4940-9cd5-a42bc647c79e
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘›—éüÿÿÿÿ8Ô¹îŸÐ2J$e94f1f49-02a0-414c-9991-6493ffafd35b
+r	java:S106"+Replace this use of System.out by a logger.(Ž³ð¸ûÿÿÿÿ8å¹îŸÐ2J$df4b2ea6-222b-4266-a81e-ecade6d2cfce

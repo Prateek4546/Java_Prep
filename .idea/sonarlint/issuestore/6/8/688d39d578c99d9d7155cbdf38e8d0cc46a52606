@@ -1,5 +1,9 @@
 
-k
-java:S1604"(Make this anonymous inner class a lambda(¿ÂËó8Àç¼ıÆ2J$65b00956-a3b5-4ebe-b368-8f3d5ca3d612
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¥¸ªô8Ğç¼ıÆ2J$573e8982-00b9-4d6b-88e4-7c4eea9feb4a
-m	java:S106"+Replace this use of System.out by a logger.(‰˜ËÚ8Ğç¼ıÆ2J$24f2cb13-09f6-4ce6-88c9-4fb2039b3f6d
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¥¸ªô8Øç÷ïĞ2J$9b86c0b3-c450-4d5a-a275-239538979dc4
+¹
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú78õÁƒğĞ2J$4c8f8866-2d74-4727-933d-50a1bd048708
+~
+java:S2438";Replace this Counter instance with an instance of Runnable.(î†©ê8ßç÷ïĞ2J$6b4d1101-313c-42a2-9d63-50592af303f7
+~
+java:S2438	";Replace this Counter instance with an instance of Runnable.(ô´‚8ßç÷ïĞ2J$fff14567-8fa1-4ba3-812f-c94b56069571
+r	java:S106"+Replace this use of System.out by a logger.(®óàıÿÿÿÿ8ßç÷ïĞ2J$def29609-5e93-4dda-8007-554247e301bd
