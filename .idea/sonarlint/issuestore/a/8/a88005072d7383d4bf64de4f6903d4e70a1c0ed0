@@ -1,7 +1,7 @@
 
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( î¦û8ÕÞÓñ¼2J$e3e89414-b616-40b2-8ee2-e9b299017b8e
-m	java:S106"+Replace this use of System.out by a logger.(áÐÝî8ÚÞÓñ¼2J$cb5e43f9-321b-4463-aa9e-03c7ae8d5eef
-m	java:S106"+Replace this use of System.out by a logger.(áÐÝî8ÛÞÓñ¼2J$562fd9dd-74ab-42ed-bec9-6b92b36b6a8a
-r	java:S106"+Replace this use of System.out by a logger.(×µ²ÿýÿÿÿÿ8ÜÞÓñ¼2J$8d133f34-ea89-45e5-9acd-7ae1eed3328c
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( î¦û8ÕÞÓñ¼2J$c7798f44-1a76-43a0-8d25-5d65a72ea673
+m	java:S106"+Replace this use of System.out by a logger.(áÐÝî8ÚÞÓñ¼2J$613bee34-4bab-425a-b8bb-0d3037f2c243
+m	java:S106"+Replace this use of System.out by a logger.(áÐÝî8ÛÞÓñ¼2J$78cc3600-a932-4387-927d-abdbd784ab33
+r	java:S106"+Replace this use of System.out by a logger.(×µ²ÿýÿÿÿÿ8ÜÞÓñ¼2J$21d13744-09db-42e2-adee-7995ffe19864
 y
-java:S1128"1Remove this unused import 'java.util.Collection'.(¹ÉÐšùÿÿÿÿ8ßÞÓñ¼2J$f8aae219-0f06-445f-8347-fc732606714d
+java:S1128"1Remove this unused import 'java.util.Collection'.(¹ÉÐšùÿÿÿÿ8ßÞÓñ¼2J$37f591b0-4ab6-4315-81f1-e37ddcf516cf

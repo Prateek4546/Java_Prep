@@ -106,3 +106,5 @@ c
 3src/dataStructureAndAlgorithm/pattern/Pattern1.java,2\8\28abbad5cedcf46d5ca3ae41e8f73dbcad404d76
 c
 3src/dataStructureAndAlgorithm/pattern/Pattern2.java,9\f\9f9afe6e3e74ca68a66d1953fd09dcb34b986742
+k
+;src/objectOrientedProgramming/interface_learning/Anima.java,c\d\cd17353aaf40a84eba33b1142398d7bd70c42118
