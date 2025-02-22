@@ -108,3 +108,7 @@ c
 3src/dataStructureAndAlgorithm/pattern/Pattern2.java,9\f\9f9afe6e3e74ca68a66d1953fd09dcb34b986742
 k
 ;src/objectOrientedProgramming/interface_learning/Anima.java,c\d\cd17353aaf40a84eba33b1142398d7bd70c42118
+Q
+!src/newConcept/LocalHostDemo.java,e\8\e8696451b0182bab2ffe732ad982cb13695f9034
+R
+"src/newConcept/CheckLocalHost.java,8\7\8730a3f007984db4b29107bd44c0698f037bdefd
