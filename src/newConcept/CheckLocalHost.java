@@ -12,6 +12,7 @@ public class CheckLocalHost {
                     System.out.println("This is IPv6");
                 }
                 else{
+                    System.out.println("Running");
                     System.out.println("This is IPv4");
 
                 }
