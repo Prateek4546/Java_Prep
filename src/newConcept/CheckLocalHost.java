@@ -16,6 +16,8 @@ public class CheckLocalHost {
                     System.out.println("This is IPv4");
                     System.out.println("New things com here to discribe");
                     System.out.println("New things com here to discribe");
+                    System.out.println("New things com here to discribe");
+
 
                 }
             }
