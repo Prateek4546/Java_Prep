@@ -112,3 +112,11 @@ Q
 !src/newConcept/LocalHostDemo.java,e\8\e8696451b0182bab2ffe732ad982cb13695f9034
 R
 "src/newConcept/CheckLocalHost.java,8\7\8730a3f007984db4b29107bd44c0698f037bdefd
+D
+src/stream/Main.java,b\e\be6254d5ece0ce30c329ff1e9ff2d1a7ff875bfa
+O
+src/stream/IntermidiateOps.java,0\9\095f20dcfc5b916d6ca9a4e9a5ab78dd2f6c1a05
+e
+5src/objectOrientedProgramming/staticExample/Main.java,2\3\23259ff68d0c482dbe856b83a33179974ad1a7a6
+l
+<src/objectOrientedProgramming/staticExample/StaticFiled.java,e\3\e3d4ad1071f0f665725f67059752d394c418b258
